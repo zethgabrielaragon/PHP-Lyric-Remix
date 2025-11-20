@@ -78,7 +78,7 @@ p {
   margin: 30px 0;
   padding: 20px;
   background: rgba(255, 255, 255, 0.1);
-  border-left: 5px solid rgb(172, 16, 5);
+  border-left: 5px solid rgb(5, 71, 5);
   border-radius: 8px;
 }
 
@@ -89,7 +89,7 @@ hr {
 }
 
 strong {
-  color: rgb(5, 71, 5);;
+  color: rgb(255, 255, 255);;
 }
 
 .section p {
@@ -152,7 +152,7 @@ for ($i = 0; $i < $repeatChorus; $i++) {
 </div>
 
 <footer>
-  Made with love this Christmas 🎁
+  Christmas Is Right Around The Corner 🎁
 </footer>
 
 </body>
